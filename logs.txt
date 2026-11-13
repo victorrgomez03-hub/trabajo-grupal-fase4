@@ -1,0 +1,33 @@
+2026-11-09 20:17:48.129377 - Cliente registrado correctamente
+2026-11-09 20:17:48.130662 - Reserva creada correctamente
+2026-11-09 20:17:48.131550 - Fin de ejecucion del sistema
+2026-11-09 20:17:53.702767 - Cliente registrado correctamente
+2026-11-09 20:17:53.704115 - Reserva creada correctamente
+2026-11-09 20:17:53.705030 - Fin de ejecucion del sistema
+2026-11-09 20:18:06.591707 - Cliente registrado correctamente
+2026-11-09 20:18:06.592383 - Reserva creada correctamente
+2026-11-09 20:18:06.592818 - Fin de ejecucion del sistema
+2026-11-09 20:18:15.192208 - Cliente registrado correctamente
+2026-11-09 20:18:15.193202 - Reserva creada correctamente
+2026-11-09 20:18:15.193807 - Fin de ejecucion del sistema
+2026-11-09 20:18:26.133387 - Cliente registrado correctamente
+2026-11-09 20:18:26.135448 - Reserva creada correctamente
+2026-11-09 20:18:26.136363 - Fin de ejecucion del sistema
+2026-11-09 20:32:14.260326 - Cliente registrado correctamente
+2026-11-09 20:32:14.260883 - Reserva creada correctamente
+2026-11-09 20:32:14.261190 - Fin de ejecucion del sistema
+2026-11-09 20:32:24.477000 - Cliente registrado correctamente
+2026-11-09 20:32:24.477677 - Reserva creada correctamente
+2026-11-09 20:32:24.477938 - Fin de ejecucion del sistema
+2026-11-09 20:49:37.556744 - ERROR:El nombre no puede estar vacio
+2026-11-09 20:49:37.557316 - Fin de ejecucion del sistema
+2026-11-09 20:49:49.316780 - ERROR:El nombre no puede estar vacio
+2026-11-09 20:49:49.317598 - Fin de ejecucion del sistema
+2026-11-09 20:50:01.436067 - ERROR:El nombre no puede estar vacio
+2026-11-09 20:50:01.436761 - Fin de ejecucion del sistema
+2026-11-09 20:53:54.944752 - Cliente registrado correctamente
+2026-11-09 20:53:54.945287 - Reserva creada correctamente
+2026-11-09 20:53:54.945601 - Fin de ejecucion del sistema
+2026-11-09 20:54:09.581382 - Cliente registrado correctamente
+2026-11-09 20:54:09.582077 - Reserva creada correctamente
+2026-11-09 20:54:09.582542 - Fin de ejecucion del sistema
